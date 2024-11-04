@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/c_oop.dir/src/main.c.o CMakeFiles/c_oop.dir/src/Entity.c.o CMakeFiles/c_oop.dir/src/EntityChild.c.o -o c_oop 
