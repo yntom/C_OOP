@@ -1,0 +1,3 @@
+/home/yntom/work/build/CMakeFiles/c_oop.dir
+/home/yntom/work/build/CMakeFiles/edit_cache.dir
+/home/yntom/work/build/CMakeFiles/rebuild_cache.dir

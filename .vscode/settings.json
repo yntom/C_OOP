@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "bit": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "cstddef": "cpp",
+        "type_traits": "cpp",
+        "cmath": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "entity.h": "c",
+        "entitychild.h": "c"
+    }
+}
